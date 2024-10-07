@@ -1,6 +1,5 @@
 # First Program: "Longest Common Prefix Between Three Words"
 
-'''
 word0 = input("Enter a word: ").lower().strip()
 word1 = input("Enter a word: ").lower().strip()
 word2 = input("Enter a word: ").lower().strip()
@@ -13,7 +12,7 @@ while True:
         idx += 1
     else:
         break
-print(result)'''
+print(result)
 
 
 # Second Program: "Longest Common Prefix Finder for a Dynamic List of Words"
