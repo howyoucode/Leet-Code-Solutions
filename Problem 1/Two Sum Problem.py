@@ -2,7 +2,7 @@ nums = [2, 7, 11, 15, 6, 3]
 target = 9
 
 # Solution 1
-'''def target_finder(nums):
+def target_finder(nums):
 
     targets = []
     for i in nums:
@@ -12,7 +12,7 @@ target = 9
     return targets
             
 result = target_finder(nums)
-print(result)'''
+print(result)
 
 #_____________________________________________________________
 
