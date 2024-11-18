@@ -4,7 +4,7 @@ def sqrt(value):
         return 1
     
     for i in range(1, value):
-        if i * i > i:
+        if i * i > value:
             return i - 1
 
 print(sqrt(2))
